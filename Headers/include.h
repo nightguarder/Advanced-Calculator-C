@@ -1,0 +1,6 @@
+#include "../Headers/input.h"
+#include "../Assets/SimpleCalc.h"
+#include "../Assets/ComplexCalc.h"
+#include "../Assets/BasicCalc.h"
+#include "../Assets/BinaryCalc.h"
+#include "../Assets/CustomCalc.h"
