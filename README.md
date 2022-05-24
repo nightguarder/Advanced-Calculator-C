@@ -1,5 +1,5 @@
 # Advanced-Calculator-C
-Advanced User's Calculator written in plain C using cpp compiler.
+Advanced User's Calculator written in plain C using cpp compiler with similar functions like in Windows Calculator
 
 ## Instructions
 1. Compile the program with cpp compiler (.gcc). First compile might take a while.
