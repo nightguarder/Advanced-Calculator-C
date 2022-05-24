@@ -4,9 +4,9 @@ Advanced User's Calculator written in plain C using cpp compiler.
 ## Instructions
 1. Compile the program with cpp compiler (.gcc). First compile might take a while.
 2. Run the program with input parameters.
-3. .\program.exe name(string) number(1) *EXAMPLE: .\program.exe  alex 5*
-    - number should be chosen from the list below.*
-3. Folow the instruction in the console. 
+3. .\program.exe name(string) number(1) *EXAMPLE: .\program.exe  alex 5**
+    - **number should be chosen from the list below.*
+3. Folow the instruction in the console.
     - Press 'q' anytime to quit the program.
 
 ## Features
